@@ -10,4 +10,4 @@ There are __anti-debugging tricks__ in this crackme that at the time of this wri
 
 When we first _run_ the crackme it simple gives us a hint that we need to contact the distributor and get a keyfile from them:
 
-![asdf](/assets/images/farts.png)
+![run](/assets/images/powershell_screenshot.png)
